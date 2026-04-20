@@ -84,5 +84,3 @@ Have questions or suggestions? Feel free to reach out!
 - Live App: [Password Manager](https://password-manager-azure-ten.vercel.app)
 
 ---
-
-**Made with ❤️ by Shubham Tiwari**
