@@ -20,7 +20,7 @@ Check out the live application: [Password Manager](https://password-manager-azur
 - **Frontend:** JavaScript, HTML, CSS
 - **Deployment:** Azure/Vercel
 - **Storage:** Browser local storage / Cloud database
-
+- *react*
 ## 📋 Getting Started
 
 ### Prerequisites
