@@ -26,7 +26,7 @@ Check out the live application: [Password Manager](https://password-manager-azur
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- npm 
 
 ### Installation
 
